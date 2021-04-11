@@ -2750,7 +2750,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style3 .button:hover {
-					color: #37c0fb !important;
+					color: #37c0fb !important; /* #8B0000 */
 				}
 
 /* CTA */
@@ -2783,7 +2783,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: #37c0fb;
+				color: #8B0000; /* #37c0fb #8B0000 */
 				border-bottom-color: transparent;
 			}
 
