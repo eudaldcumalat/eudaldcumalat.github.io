@@ -2720,6 +2720,10 @@ input, select, textarea {
 
 /* Wrapper */
 
+	.wrapper_header {
+		padding: 3em 0 0 0;
+	}
+
 	.wrapper {
 		padding: 5em 0 3em 0;
 	}
@@ -2875,6 +2879,10 @@ input, select, textarea {
 			}
 
 		/* Wrapper */
+
+			.wrapper_header {
+				padding: 3em 0 0 0;
+			}
 
 			.wrapper {
 				padding: 3em 0 1em 0;
@@ -3281,6 +3289,10 @@ input, select, textarea {
 
 		/* Wrapper */
 
+			.wrapper_header {
+				padding: 2em 0 0 0;
+			}
+
 			.wrapper {
 				padding: 2em 0 1px 0;
 			}
@@ -3340,6 +3352,10 @@ input, select, textarea {
 				}
 
 		/* Wrapper */
+
+			.wrapper_header {
+				padding: 2em 20px 1px 20px;
+			}
 
 			.wrapper {
 				padding: 2em 20px 1px 20px;
