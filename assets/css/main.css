@@ -1960,7 +1960,8 @@ input, select, textarea {
 
 	header p {
 		color: #999;
-		font-size: 1.25em;
+		/* font-size: 1.25em; */
+		font-size: 1em;
 		position: relative;
 		margin-top: -1.25em;
 		margin-bottom: 2.25em;
