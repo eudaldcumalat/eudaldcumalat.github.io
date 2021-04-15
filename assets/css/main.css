@@ -2075,6 +2075,10 @@ input, select, textarea {
 			border-radius: 5px;
 		}
 
+		.image a {
+			text-decoration: none;
+		}
+
 		.image.left {
 			display: block;
 			float: left;
