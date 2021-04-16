@@ -2784,7 +2784,8 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 4em 0 8em 0;
+		/* padding: 4em 0 8em 0; */
+		padding: 4em 0 0 0;
 	}
 
 		#footer a {
@@ -2906,7 +2907,8 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 3em 0 3em 0;
+				/* padding: 3em 0 3em 0; */
+				padding: 3em 0 0 0;
 			}
 
 				#footer .container {
