@@ -193,13 +193,13 @@ input, select, textarea {
 	  content: attr(data-label);
 	  font-size: 0.8em;
 	  position: absolute;
-	  text-align: center;
+	  /* text-align: center; */
 	  top: 5px;
 	  left: 0;
 	  right: 0;
 	}
 	.progress .value {
-	  background-color: #7cc4ff;
+	  background-color: #8B0000;
 	  display: inline-block;
 	  height: 100%;
 	}
