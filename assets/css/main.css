@@ -190,7 +190,7 @@ input, select, textarea {
 
 	.progress {
 	  height: 1.5em;
-	  width: 100%;
+	  width: 90%;
 	  background-color: #c9c9c9;
 	  position: relative;
 	}
@@ -200,7 +200,7 @@ input, select, textarea {
 	  position: absolute;
 	  /* text-align: center; */
 	  /* top: 5px; */
-	  left: 10px;
+	  left: 10em;
 	  right: 0;
 	}
 	.progress .value {
