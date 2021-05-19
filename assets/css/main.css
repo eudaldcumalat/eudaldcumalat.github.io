@@ -194,8 +194,7 @@ input, select, textarea {
 	}
 
 	.progress {
-	  /* height: 1.5em; */
-		height: 1em;
+	  height: 1.5em;
 	  width: 100%;
 	  background-color: #c9c9c9;
 	  position: relative;
@@ -3010,7 +3009,7 @@ input, select, textarea {
 			.box.highlight {
 				text-align: left;
 				position: relative;
-				padding-left: 7em;
+				/* padding-left: 7em; */
 			}
 
 				.box.highlight i {
@@ -3380,7 +3379,7 @@ input, select, textarea {
 		/* Box */
 
 			.box.highlight {
-				padding-left: calc(4em + 30px);
+				/* padding-left: calc(4em + 30px); */
 			}
 
 			.box.post .inner {
