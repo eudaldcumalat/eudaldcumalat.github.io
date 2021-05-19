@@ -183,6 +183,27 @@ input, select, textarea {
 		padding: 1em 0 1em 2em;
 	}
 
+	.progress {
+	  height: 1.5em;
+	  width: 100%;
+	  background-color: #c9c9c9;
+	  position: relative;
+	}
+	.progress:before {
+	  content: attr(data-label);
+	  font-size: 0.8em;
+	  position: absolute;
+	  text-align: center;
+	  top: 5px;
+	  left: 0;
+	  right: 0;
+	}
+	.progress .value {
+	  background-color: #7cc4ff;
+	  display: inline-block;
+	  height: 100%;
+	}
+
 /* Container */
 
 	.container {
