@@ -183,6 +183,11 @@ input, select, textarea {
 		padding: 1em 0 1em 2em;
 	}
 
+	.p_progress {
+		margin: 0 0 0 0;
+		font-size: 15px;
+	}
+
 	.progress {
 	  height: 1.5em;
 	  width: 100%;
