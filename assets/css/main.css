@@ -185,6 +185,7 @@ input, select, textarea {
 
 	.h3_progress {
 		margin-bottom: 0;
+		font-size: 2em;
 	}
 
 	.p_progress {
@@ -193,10 +194,12 @@ input, select, textarea {
 	}
 
 	.progress {
-	  height: 1.5em;
+	  /* height: 1.5em; */
+		height: 1em;
 	  width: 100%;
 	  background-color: #c9c9c9;
 	  position: relative;
+		border-radius: 5px;
 	}
 	.progress:before {
 	  content: attr(data-label);
@@ -212,6 +215,7 @@ input, select, textarea {
 	  background-color: #8B0000;
 	  display: inline-block;
 	  height: 100%;
+		border-radius: 5px;
 	}
 
 /* Container */
