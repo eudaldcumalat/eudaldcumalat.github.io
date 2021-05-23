@@ -224,6 +224,7 @@ input, select, textarea {
 	.container_img {
 		position: relative;
 	  text-align: center;
+		font
 	  color: white;
 	}
 
@@ -239,6 +240,14 @@ input, select, textarea {
 	  position: absolute;
 	  top: 8px;
 	  left: 16px;
+	}
+
+	/* Top center text */
+	.top-center {
+	  position: absolute;
+	  top: 8px;
+	  left: 16px;
+		font-style: italic;
 	}
 
 	/* Top right text */
