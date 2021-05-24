@@ -1839,6 +1839,10 @@ input, select, textarea {
 					order: -1;
 				}
 
+				.row > .off-0-mobilep {
+					margin-left: 0;
+				}
+
 				.row > .col-1-mobilep {
 					width: 8.33333%;
 				}
@@ -2817,7 +2821,8 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		padding: 3em 0 3em 0;
+		/* padding: 3em 0 3em 0; */
+		padding: 2em 0 3em 0;
 	}
 
 		.wrapper.style1 {
@@ -2982,7 +2987,7 @@ input, select, textarea {
 			}
 
 			.wrapper {
-				padding: 3em 0 1em 0;
+				padding: 1em 0 1em 0;
 			}
 
 		/* CTA */
@@ -3464,7 +3469,8 @@ input, select, textarea {
 			}
 
 			.wrapper {
-				padding: 2em 20px 1px 20px;
+				/* padding: 2em 20px 1px 20px; */
+				padding: 2em 20px 2em 20px;
 			}
 
 		/* CTA */
