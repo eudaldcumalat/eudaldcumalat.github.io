@@ -1349,6 +1349,10 @@ input, select, textarea {
 					order: -1;
 				}
 
+				.row > .off-0-narrower {
+					margin-left: 0;
+				}
+
 				.row > .col-1-narrower {
 					width: 8.33333%;
 				}
@@ -1592,6 +1596,10 @@ input, select, textarea {
 
 				.row > .imp-mobile {
 					order: -1;
+				}
+
+				.row > .off-0-mobile {
+					margin-left: 0;
 				}
 
 				.row > .col-1-mobile {
