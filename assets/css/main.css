@@ -3409,7 +3409,8 @@ input, select, textarea {
 			}
 
 			.wrapper {
-				padding: 2em 0 1px 0;
+				/* padding: 2em 0 1px 0; */
+				padding: 2em 0 2em 0;
 			}
 
 	}
