@@ -2775,7 +2775,8 @@ input, select, textarea {
 
 	#banner {
 		/* background-image: url("../../images/banner.jpg"); */
-		background-image: url("../../images/illustrations/Arslam.png");
+		/* background-image: url("../../images/illustrations/Arslam.png"); */
+		background-image: url("../../images/illustrations/LIS_Banner1.jpg");
 		background-position: center center;
 		background-size: cover;
 		height: 28em;
