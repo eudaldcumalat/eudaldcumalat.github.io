@@ -2776,10 +2776,10 @@ input, select, textarea {
 	#banner {
 		/* background-image: url("../../images/banner.jpg"); */
 		/* background-image: url("../../images/illustrations/Arslam.png"); */
-		background-image: url("../../images/illustrations/LIS_Banner1.jpg");
+		background-image: url("../../images/illustrations/LIS_Banner3.jpg");
 		background-position: center center;
 		background-size: cover;
-		height: 28em;
+		height: 20em;  /*28em*/
 		text-align: center;
 		position: relative;
 	}
@@ -2792,7 +2792,7 @@ input, select, textarea {
 			background: #212121;
 			background: rgba(27, 27, 27, 0.75);
 			color: #fff;
-			padding: 1.5em 0;
+			padding: 1em 0; /*1.5em*/
 		}
 
 			#banner header h2 {
@@ -2937,7 +2937,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				height: 24em;
+				height: 14em; /*24em*/
 			}
 
 	}
@@ -2982,7 +2982,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				height: 10em; /*20em*/
 			}
 
 		/* Wrapper */
@@ -3103,7 +3103,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				height: 8em; /*20em*/
 			}
 
 				#banner header h2 {
@@ -3396,7 +3396,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				height: 18em;
+				height: 8em; /*18em*/
 			}
 
 		/* Wrapper */
@@ -3465,7 +3465,11 @@ input, select, textarea {
 			}
 
 				#banner header {
-					padding: 20px;
+					/* padding: 20px; */
+				}
+
+				#banner header h2 {
+					font-size: 1em;
 				}
 
 		/* Wrapper */
