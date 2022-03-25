@@ -191,6 +191,10 @@ input, select, textarea {
 		margin-bottom: 0.5em;
 	}
 
+	.buy-btn {
+		background-color: #8B0000;
+	}
+
 	.h3_progress {
 		margin-bottom: 0;
 		font-size: 1.5em;
